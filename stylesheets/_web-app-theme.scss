@@ -259,7 +259,7 @@
       }
     }
 
-    label.label, input.text_field, textarea.text_area {
+    label, input.text_field, textarea.text_area {
       font-size: 1.2em;
       padding: 1px 0;
       margin: 0;
@@ -277,13 +277,13 @@
       line-height: 1.5em;
     }
 
-    label.label {
+    label {
       display: block;
       padding-bottom: 2px;
       font-weight: bold;
     }
 
-    div.fieldWithErrors label.label {
+    div.fieldWithErrors label {
       display: inline;
     }
 
