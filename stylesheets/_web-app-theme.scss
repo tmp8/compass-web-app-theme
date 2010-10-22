@@ -205,7 +205,7 @@
       width: 30px;
     }
 
-    th.last {
+    th:last-child {
       width: 200px;
     }
 
@@ -217,7 +217,7 @@
       padding: 10px;
     }
 
-    td.last {
+    td:last-child {
       text-align: right;
     }
   }
