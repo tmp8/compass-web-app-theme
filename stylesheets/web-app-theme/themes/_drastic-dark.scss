@@ -287,10 +287,6 @@
       color: #8C8C8C;
       font-size: .9em;
     }
-
-    .navform a {
-      color: #cc0000;
-    }
   }
 
   /* flash-messages */
@@ -346,6 +342,10 @@
       background: #36393d;
       color: #FFF;
     }
+  }
+
+  .navbuttons a {
+    color: #cc0000;
   }
 
   /* rounded borders */
