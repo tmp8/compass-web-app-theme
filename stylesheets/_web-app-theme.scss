@@ -224,7 +224,7 @@
 
   /* forms */
 
-  input.checkbox {
+  input[type=checkbox] {
     margin: 0;
     padding: 0;
   }
@@ -269,7 +269,7 @@
       text-align: right;
     }
 
-    input.checkbox, input.radio {
+    input[type=checkbox], input[type=radio] {
       margin-right: 5px;
     }
 
