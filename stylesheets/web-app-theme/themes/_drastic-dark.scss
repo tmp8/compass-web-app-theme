@@ -252,7 +252,7 @@
 
   /* forms */
 
-  .form {
+  form {
     label.label {
       color: #666666;
     }
@@ -368,7 +368,7 @@
     -webkit-border-top-left-radius: 4px;
   }
 
-  #sidebar, #sidebar .block, #main .block, #sidebar ul.navigation, ul.list li, #footer .block, .form input.button, #box .block {
+  #sidebar, #sidebar .block, #main .block, #sidebar ul.navigation, ul.list li, #footer .block, form input.button, #box .block {
     -moz-border-radius-bottomleft: 4px;
     -webkit-border-bottom-left-radius: 4px;
     -moz-border-radius-bottomright: 4px;
