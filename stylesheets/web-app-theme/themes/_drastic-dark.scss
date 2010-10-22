@@ -358,13 +358,13 @@
     -webkit-border-top-right-radius: 4px;
   }
 
-  .secondary-navigation li.first a, .secondary-navigation ul li.first, table th.first, table th.first {
+  .secondary-navigation li:first-child a, .secondary-navigation ul li:first-child, table th:first-child, table th:first-child {
     -moz-border-radius-topleft: 4px;
     -webkit-border-top-left-radius: 4px;
   }
 
 
-  .secondary-navigation ul li.first {
+  .secondary-navigation ul li:first-child {
     -moz-border-radius-topleft: 4px;
     -webkit-border-top-left-radius: 4px;
   }
