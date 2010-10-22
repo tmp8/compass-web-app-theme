@@ -259,7 +259,7 @@
       }
     }
 
-    label, input.text_field, textarea {
+    label, input[type=text], textarea {
       font-size: 1.2em;
       padding: 1px 0;
       margin: 0;
@@ -291,7 +291,7 @@
       color: red;
     }
 
-    input.text_field, textarea {
+    input[type=text], textarea {
       width: 100%;
       border-width: 1px;
       border-style: solid;
