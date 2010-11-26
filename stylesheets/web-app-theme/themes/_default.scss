@@ -132,7 +132,7 @@
     ul li {
       background-position: 15px 11px;
       background-repeat: no-repeat;
-      background-image: url("/images/arrow.png");
+      background-image: url("/analysetool/images/arrow.png");
       border-bottom: 1px solid #e2e2e2;
 
       a {
@@ -148,7 +148,7 @@
 
   #main-navigation {
     background-color: #f4f4f4;
-    background-image: url("/images/menubar-background.png");
+    background-image: url("/analysetool/images/menubar-background.png");
     background-repeat: repeat-x;
 
     ul li {
@@ -187,7 +187,7 @@
     background-color: #f2f1ee;
     border-bottom: none;
     border-bottom-width: 5px;
-    background-image: url("/images/boxbar-background.png");
+    background-image: url("/analysetool/images/boxbar-background.png");
 
     ul li.active, ul li.active a:hover {
       background-color: #fff;
@@ -214,7 +214,7 @@
   .pagination {
     a, span {
       background-color: #f4f4f4;
-      background-image: url("/images/button-background.png");
+      background-image: url("/analysetool/images/button-background.png");
       color: #111;
       text-align: center;
       min-width: 15px;
@@ -245,7 +245,7 @@
     }
 
     a:active {
-      background-image: url("/images/button-background-active.png");
+      background-image: url("/analysetool/images/button-background-active.png");
       outline: none;
     }
   }
@@ -317,7 +317,7 @@
 
   a.button, button.button {
     background-color: #f4f4f4;
-    background-image: url("/images/button-background.png");
+    background-image: url("/analysetool/images/button-background.png");
     border: 1px solid #c3c4ba;
     font-family: helvetica, arial, sans-serif;
     font-weight: normal;
@@ -338,7 +338,7 @@
   a.button:active, button.button:active {
     outline: none;
     background-color: #ddd;
-    background-image: url("/images/button-background-active.png");
+    background-image: url("/analysetool/images/button-background-active.png");
   }
 
   /* flash-messages */
